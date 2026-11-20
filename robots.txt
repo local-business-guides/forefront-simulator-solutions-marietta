@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/forefront-simulator-solutions-marietta/sitemap.xml
+Sitemap: https://local-business-guides.github.io/forefront-simulator-solutions-marietta/news-sitemap.xml

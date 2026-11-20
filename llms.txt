@@ -19,6 +19,9 @@
 - [Golf Simulator Design Marietta](https://local-business-guides.github.io/forefront-simulator-solutions-marietta/golf-simulator-design-marietta/): Golf Simulator Design Marietta: shape a simulator around your room, budget, and plans. Contact Forefront Simulator Solutions to discuss your project today.
 - [Golf shop Marietta for your indoor golf plans](https://local-business-guides.github.io/forefront-simulator-solutions-marietta/golf-shop-marietta/): Golf shop Marietta customers can ask about golf products and indoor golf plans. Contact Forefront Simulator Solutions in Marietta to discuss your needs today.
 
+## Newsroom
+- [Forefront Simulator Solutions Releases Atlanta Installation Guide](https://local-business-guides.github.io/forefront-simulator-solutions-marietta/news/2026-11-20-forefront-simulator-solutions-releases-atlanta/): The Marietta business published a guide to golf simulator installation in Atlanta, with a related YouTube video, podcast episode and SoundCloud audio version. (2026-11-20)
+
 ## Pages
 - [Golf Simulator Installation Atlanta in Marietta, Georgia](https://local-business-guides.github.io/forefront-simulator-solutions-marietta/): Get a custom golf simulator designed for your space and goals, right here in Marietta. Call +1470-219-8399.
 - [About Forefront Simulator Solutions](https://local-business-guides.github.io/forefront-simulator-solutions-marietta/about/): About Forefront Simulator Solutions, Marietta.
@@ -26,4 +29,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/forefront-simulator-solutions-marietta/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/forefront-simulator-solutions-marietta/news/rss.xml)
 - [Main resource site](https://forefront-simulator-solutions.localbusinesses1.chatgpt.site)
